@@ -1,0 +1,5 @@
+id,question,expected_topic
+1,How should I compare open-source models for my capstone?,model_comparison
+2,What should I include in the evaluation section?,evaluation_section
+3,How do I document responsible AI practices?,responsible_ai
+4,How can I structure the project report for a capstone?,report_structure
