@@ -1,0 +1,5 @@
+model,size,quality_score,latency_note,notes
+llama3.2:3b,small,8.5,moderate,"Balanced choice for local use with strong instruction following"
+phi3,small,8.0,moderate,"Good reasoning but slightly heavier on CPU"
+mistral,small,7.8,fast,"Efficient and responsive, but may be less detailed"
+gemma,small,7.6,moderate,"Useful baseline with steady output quality"
