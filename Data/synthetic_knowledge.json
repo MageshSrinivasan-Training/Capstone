@@ -1,0 +1,40 @@
+{
+  "faq": [
+    {
+      "question": "How do I track my package?",
+      "answer": "Use the tracking number from your confirmation email or order page. If the shipment is already in transit, you can check the carrier portal for the latest status."
+    },
+    {
+      "question": "What if my delivery is delayed?",
+      "answer": "Check the latest carrier update first. If the delay lasts more than 48 hours, contact support and share the tracking number for further help."
+    },
+    {
+      "question": "How do I return an item?",
+      "answer": "Open the order details page, select the item, and follow the return instructions. A return label may be provided if the return is eligible."
+    },
+    {
+      "question": "How can I update my delivery address?",
+      "answer": "Address updates are usually possible before the shipment is dispatched. Contact support as soon as possible with the order number and the new address."
+    },
+    {
+      "question": "What should I do if my package is lost?",
+      "answer": "Report the issue to support with the order number and tracking details. The team can help open a claim and review the shipment history."
+    },
+    {
+      "question": "How should I compare open-source models for my capstone?",
+      "answer": "Evaluate each model on the same test set and compare quality, latency, resource usage, and fit for your task."
+    },
+    {
+      "question": "What should I include in the evaluation section?",
+      "answer": "Include quantitative metrics, qualitative review, error analysis, and a discussion of trade-offs and limitations."
+    },
+    {
+      "question": "How do I document responsible AI practices?",
+      "answer": "Describe fairness, safety, privacy, transparency, and known limitations with mitigation steps and evidence."
+    },
+    {
+      "question": "How can I structure the project report for a capstone?",
+      "answer": "Use a clear structure with problem statement, methods, experiments, results, evaluation, limitations, and future work."
+    }
+  ]
+}
